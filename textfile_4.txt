@@ -1,0 +1,3 @@
+Warning: Disk space running low.
+Error: File not found during backup operation.
+Critical: Immediate attention required for system stability.

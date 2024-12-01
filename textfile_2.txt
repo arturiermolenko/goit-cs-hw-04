@@ -1,0 +1,3 @@
+Critical error: Unable to connect to the database.
+Warning: Network latency detected.
+Please contact the system administrator for further assistance.
